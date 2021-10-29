@@ -1,6 +1,6 @@
 import pymysql
 
-conn = pymysql.connect(host='ec2-54-237-33-253.compute-1.amazonaws.com',user='EU_AMZL_OR_READ',password='1IkOzu37sf7sj',database='EU_AMZL_OR')
+conn = pymysql.connect(host='.compute-1.amazonaws.com',user='EU_R_READ',password='balbblad',database='EU_R')
 
 try:
 	with conn.cursor() as cur:
