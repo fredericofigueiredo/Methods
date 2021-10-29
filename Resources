@@ -1,0 +1,13 @@
+**Creating an executable file for other people to run your program locally**
+- Package script dependencies:  https://packaging.python.org/tutorials/managing-dependencies/
+- Create an executable file from script and dependencies: https://www.youtube.com/watch?v=UZX5kH72Yx4&t=363s
+
+**Create self sustained web application using streamlit**
+- https://docs.streamlit.io/library/api-reference
+
+
+
+
+
+
+
